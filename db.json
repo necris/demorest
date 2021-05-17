@@ -1,5 +1,6 @@
 {
-user: [
+"user": [
+    
   {
     "id": 1,
     "firstName": "John",
@@ -9,9 +10,9 @@ user: [
   },{
     "id": 2,
     "firstName": "John",
-    "lastName": "Smith",
+    "lastName": "Doe",
     "age": 24,
-    "email": "email@email.com"
+    "email": "doe@email.com"
   }
 ]
 }
